@@ -6,11 +6,14 @@
 /*Components*/
 @import "components/status-bar.css";
 @import "components/navigation.css";
+@import "components/screen-header.css";
 
 /*Screen*/
 @import "screen/login.css";
+@import "screen/friends.css";
 
 body{
     font-family: 'Nanum Gothic', sans-serif;
     height: 1000vh;
+    color: #2e363e;
 }
