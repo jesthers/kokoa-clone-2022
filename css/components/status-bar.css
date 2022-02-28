@@ -7,6 +7,10 @@
     padding: 5px 3px;
     box-sizing: border-box;
     background-color: white;
+    z-index: 2;
+}
+.status-bar__chat{
+    background-color: #9bbbd4;
 }
 
 .status-bar__column{
